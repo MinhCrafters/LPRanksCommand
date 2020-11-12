@@ -1,0 +1,10 @@
+prefix: '&6LPRankCommand &f> '
+no_permission: '&cNo perms!'
+wrong_arguments: '&cWrong arguments! Usage: /rank <player> <rank>'
+setrank: '&aSuccessfully set &e%player%&a''s rank to &e%rank%&a!'
+setrank2: '&aSuccessfully set your rank to &e%rank%&a!'
+
+# Set your own message for staff here cuz im lazy
+MessageStaff:
+  enabled: false
+  message: ''

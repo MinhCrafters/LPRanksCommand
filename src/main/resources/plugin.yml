@@ -1,0 +1,11 @@
+name: LPRankCommand
+version: ${project.version}
+main: me.minhcrafters.lprankcommand.Main
+authors: [ MinhCrafters ]
+description: Promote/Demote users from a track. (LuckPerms only!)
+
+commands:
+  rank:
+    aliases: [setrank]
+  lprankreload:
+    description: 'ssssss'
