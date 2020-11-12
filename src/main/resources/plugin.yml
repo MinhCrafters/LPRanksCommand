@@ -2,7 +2,7 @@ name: LPRankCommand
 version: ${project.version}
 main: me.minhcrafters.lprankcommand.Main
 authors: [ MinhCrafters ]
-description: Promote/Demote users from a track. (LuckPerms only!)
+description: Set player's rank. (LuckPerms only!)
 depend: [LuckPerms]
 
 commands:
