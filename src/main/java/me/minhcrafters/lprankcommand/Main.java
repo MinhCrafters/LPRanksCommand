@@ -7,8 +7,8 @@ public final class Main extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
         saveDefaultConfig();
-        new RankCommand(this);
+
+        getCommand("rank").setExecutor(new RankCommand(this));
     }
 }
